@@ -1,0 +1,1 @@
+/Users/jamesli/Desktop/Sol\ Projects/sol_boot/crud-app/anchor/target/sbpf-solana-solana/release/libcrud_app.rlib: /Users/jamesli/Desktop/Sol\ Projects/sol_boot/crud-app/anchor/programs/crud-app/src/lib.rs
